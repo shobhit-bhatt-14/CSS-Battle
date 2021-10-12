@@ -1,0 +1,9 @@
+<div></div>
+<style>
+  div {
+    width:10em;
+    height:10em;
+    background:#b5e0ba;
+    box-shadow:0 0 0 2em #b5e0ba,0 0 0 15em #5d3a3a;
+  }
+</style>
