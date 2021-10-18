@@ -1,0 +1,22 @@
+<div><img></div>
+<style>
+  body{
+    background:#6592CF;
+    display:grid;
+    place-items:center;
+  }
+  div{
+    background:#243D83;
+    height:150px;
+    width:300px;
+    display:grid;
+    place-items:center;
+  }
+  img{
+    background:#EEB850;
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    box-shadow:0 0 0 50px #243D83,0 0 0 100px #6592CF;
+}
+</style>
