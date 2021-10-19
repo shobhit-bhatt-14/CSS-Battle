@@ -1,0 +1,25 @@
+<p></p>
+<a></a>
+<style>
+  *{
+    background:#0B2429;
+    position:absolute;
+  }
+  p{
+    height:120;
+    width:120;
+    border-radius:50%;
+    background:#F3AC3C;
+    left:192;
+    top:6;
+  }
+  a{
+    height:120;
+    width:120;
+    background:#F3AC3C;
+    border-radius:50% 0 50% 50%;
+    top:142;
+    left:72;
+    box-shadow:60px -60px 0 #998235;
+  }
+</style>

@@ -1,0 +1,26 @@
+<div id="a"></div><div id="b"></div><div id="c"></div>
+<style>
+  *{
+    background:#62306D;
+  }
+  div{
+    width:100px;
+    height:100px;
+    background:#F7EC7D;
+    border-radius:0 0 50px 50px;
+    position:absolute;
+  }
+  #a{
+    top:150px;
+    left:50px;
+  }
+  #b{
+    top:50px;
+    left:150px;
+    transform:rotate(180deg);
+  }
+  #c{
+    top:150px;
+    left:250px;
+  }
+</style>
