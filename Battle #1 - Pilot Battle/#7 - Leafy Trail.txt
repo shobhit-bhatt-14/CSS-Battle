@@ -1,0 +1,16 @@
+<p>
+<style>
+  *{
+    background:#0B2429;
+    position:absolute;
+  }
+  p{
+    background:#F3AC3C;
+    height:150;
+    width:150;
+    border-radius:66% 0;
+    top:51;
+    left:167;
+    box-shadow:-50px 0 0 #998235,-100px 0 0 #1A4341;
+  }
+</style>

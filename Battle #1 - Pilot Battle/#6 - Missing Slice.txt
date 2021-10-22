@@ -1,0 +1,19 @@
+<p style="--bg:#F7F3D7;--i:0;"></p>
+<p style="--bg:#51B5A9;--i:1;"></p>
+<p style="--bg:#FADE8B;--i:2;"></p>
+<style>
+  *{
+    background:#E3516E;
+    transform-origin:top right;
+  }
+  p{
+    position:absolute;
+    height:100;
+    width:100;
+    background:var(--bg);
+    border-radius:0 0 0 100%;
+    top:134;
+    left:100;
+    transform:rotate(calc(90deg*var(--i)));
+  }
+</style>
